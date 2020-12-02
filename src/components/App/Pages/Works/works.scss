@@ -1,0 +1,49 @@
+section.page {
+  .page-title {
+    h1 {
+      color: var(--header-color);
+      font-size: 1.8rem;
+      opacity: .75;
+    }
+  }
+  .card-header {
+    font-size: 1.8rem;
+  }
+  .work-card {
+    margin-bottom: 5rem;
+    .b-tags {
+      font-family: var(--b-tag-font);
+      font-size: 1.3rem;
+      letter-spacing: .037rem;
+      color: var(--brand-color);
+
+      ul {
+        list-style: none;
+        padding: 0;
+        li {
+          margin: 0 1rem 0 0;
+
+          &:before {
+            content: '#';
+          }
+        }
+      }
+
+    }
+  }
+  .work-content {
+    max-width: 80%;
+    line-height: 1.8rem;
+
+  }
+
+}
+
+span.b-tag {
+  &:before {
+    content: ' #';
+  }
+  font-family: var(--b-tag-font);
+  color: var(--brand-color);
+
+}

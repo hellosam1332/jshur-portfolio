@@ -1,0 +1,45 @@
+section.page {
+  .card-container {
+    .card-header {
+
+    }
+    .card-body {
+      &.skills {
+        padding: 0;
+        margin: 0;
+        ul {
+          margin: 0;
+        }
+      }
+      padding: 1rem 0;
+      display: flex;
+      flex-direction: row;
+      .card-year {
+        width: 6rem;
+      }
+      .separator {
+        margin: 0 2rem;
+        &:before {
+          content: '';
+          width: 2px;
+          height: 50px;
+          display: block;
+          margin-bottom: 20px;
+          background-color: var(--brand-complement);
+        }
+      }
+      .card-content {
+        .title {
+          font-weight: 600;
+          margin-bottom: 10px;
+        }
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        span {
+          margin: .2rem 0;
+        }
+      }
+    }
+  }
+}
