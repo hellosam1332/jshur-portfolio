@@ -73,4 +73,4 @@ var t=arguments[3];Object.defineProperty(exports,"__esModule",{value:!0}),export
 },{"react":"n8MK","./Navigation":"UmDK","react-router-dom":"uc19","./Home":"qjU4","./Pages/About":"I9mE","./Pages/Works":"Nsfl","./Pages/Contact":"naUL","./Footer":"Ckri"}],"wGC4":[function(require,module,exports) {
 "use strict";var e=u(require("react")),r=u(require("react-dom")),t=u(require("./components/App"));function u(e){return e&&e.__esModule?e:{default:e}}require("./index.scss"),r.default.render(e.default.createElement(t.default,null),document.getElementById("root"));
 },{"react":"n8MK","react-dom":"NKHc","./components/App":"lSH4","./index.scss":"IKxs"}]},{},["wGC4"], null)
-//# sourceMappingURL=/src.f7aa7987.js.map
+//# sourceMappingURL=src.b52afaf3.js.map
