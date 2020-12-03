@@ -5,4 +5,4 @@
 - Add some animations to look better
 - Add chatting feature
 - Add tests
-- Implement git flow
+- Implement git flow - github actions ✅
