@@ -7,6 +7,7 @@ import AboutPage from "./Pages/About";
 import WorksPage from "./Pages/Works";
 import ContactPage from "./Pages/Contact";
 import Footer from "./Footer";
+import './app.scss'
 
 export interface RootContextProps {
     appTheme: appTheme,

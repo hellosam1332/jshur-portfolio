@@ -18,7 +18,7 @@ const Navigation = () => {
                 <Link to='/'><div className='logo-profile'/></Link>
             </div>
             <div className='nav-items'>
-                <ul className='flex-row'>
+                <ul>
                     <li><Link to='/about'><span>About</span></Link></li>
                     <li><Link to='/works'>Works</Link></li>
                     <li><Link to='/contact'>Contact</Link></li>

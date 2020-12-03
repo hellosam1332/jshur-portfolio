@@ -27,13 +27,13 @@ const WorksPage = () => {
                         Smile Canvas 라는 Windows 어플리케이션과 웹 서비스를 결합하여 고객한테 제공하는 형태로
                         저는 웹 파트를 담당하여 특히 회원관리, 이미지 합성 워크플로우 및 인프라 개발 등
                         Back-end, Front-end 모두 경험 해 볼 수 있었던 경험이였습니다.
-                        <ul>
-                            <li>온라인 포토북 뷰어 디지털포토북 개발</li>
-                            <li>상품화 프로세스 자동화</li>
-                            <li>모바일 포토북 에디터 기능 개발</li>
-                            <li>Google enhanced ecommerce 도입</li>
-                        </ul>
                     </p>
+                    <ul>
+                        <li>온라인 포토북 뷰어 디지털포토북 개발</li>
+                        <li>상품화 프로세스 자동화</li>
+                        <li>모바일 포토북 에디터 기능 개발</li>
+                        <li>Google enhanced ecommerce 도입</li>
+                    </ul>
                 </div>
             </div>
             <div className="work-card">
@@ -57,14 +57,14 @@ const WorksPage = () => {
                         전환율 및 퍼널 측정등을 통해 끊임없이 어플리케이션을 개선한 결과 좋은 성과를 얻을 수 있었습니다.
                         특히 모바일 환경상 사진선택기와 웹 어플리케이션의 통신 및 데이터를 주고 받는 과정에서 다양한 문제가 발생하였는데
                         이를 해결해나가는 과정이 본격적으로 FE 에 관심을 가지게 될 수 있었던 기회였습니다.
-                        <ul>
-                            <li>모바일 최적화 사진인화 서비스 개발</li>
-                            <li>CRS, SPA 기반 서비스</li>
-                            <li>사용자 경험을 중시한 UI/UX 도입</li>
-                            <li>Google cloud platform 의 vision api 를 활용한 사진 해석 및 트리밍 자동 조정 기능</li>
-                            <li>관련 백엔드 서비스 및 인프라 개발</li>
-                        </ul>
                     </p>
+                    <ul>
+                        <li>모바일 최적화 사진인화 서비스 개발</li>
+                        <li>CRS, SPA 기반 서비스</li>
+                        <li>사용자 경험을 중시한 UI/UX 도입</li>
+                        <li>Google cloud platform 의 vision api 를 활용한 사진 해석 및 트리밍 자동 조정 기능</li>
+                        <li>관련 백엔드 서비스 및 인프라 개발</li>
+                    </ul>
                 </div>
             </div>
             <div className="work-card">
@@ -88,12 +88,12 @@ const WorksPage = () => {
                         <br/>
                         전채적인 틀은 웹뷰 기반의 네이티브 앱이였음으로 기존 웹 개발자들도 유지보수가 가능하였고, 기존에 있던 다양한 기능도 재사용
                         할 수 있었습니다.
-                        <ul>
-                            <li>Android 사용자 사진선택 기능을 위한 커스텀 네이티브 모듈 개발</li>
-                            <li>웹뷰, 네이티브 앱 통신을 위한 인터페이스 개발</li>
-                            <li>Google Firebase 의 다양한 기능들 적용</li>
-                        </ul>
                     </p>
+                    <ul>
+                        <li>Android 사용자 사진선택 기능을 위한 커스텀 네이티브 모듈 개발</li>
+                        <li>웹뷰, 네이티브 앱 통신을 위한 인터페이스 개발</li>
+                        <li>Google Firebase 의 다양한 기능들 적용</li>
+                    </ul>
                 </div>
             </div>
             <div className="work-card">

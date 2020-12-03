@@ -1,0 +1,23 @@
+#App {
+  transition: background-color 1s ease-in-out;
+  background-color: var(--bg);
+  color: var(--body-color);
+  min-height: 100vh;
+  &.app-theme-dark {
+    --bg: #211e1e;
+    --header-color: #D4D5FF;
+    --body-color: #EBFAFF;
+    --link-hover: #57dbe6;
+    --link-teal: #4dc0cb;
+    --link-teal-hover: #61a3ff;
+    --code-bg: #cdc0bf;
+    --code-color: var(--brand-complement);
+  }
+}
+
+
+@media only screen and (max-width: 750px)  {
+  #App {
+  }
+
+}
