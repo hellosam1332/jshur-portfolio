@@ -60,7 +60,7 @@ const WorksPage = () => {
                     </p>
                     <ul>
                         <li>모바일 최적화 사진인화 서비스 개발</li>
-                        <li>CRS, SPA 기반 서비스</li>
+                        <li>CSR, SPA 기반 서비스</li>
                         <li>사용자 경험을 중시한 UI/UX 도입</li>
                         <li>Google cloud platform 의 vision api 를 활용한 사진 해석 및 트리밍 자동 조정 기능</li>
                         <li>관련 백엔드 서비스 및 인프라 개발</li>
