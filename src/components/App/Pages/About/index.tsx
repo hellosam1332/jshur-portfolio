@@ -47,7 +47,7 @@ const AboutPage = () => {
                 </div>
                 <div className="card-body">
                     <div className="card-year">
-                        <span>2014<br/> ~ 2016</span>
+                        <span>2015<br/> ~ 2017</span>
                     </div>
                     <div className="separator"/>
                     <div className="card-content">
